@@ -14,7 +14,7 @@ header{
 }
 
 body {
-    animation: transitionIn 0.75s;
+    animation: transitionIn 0.5s;
   }
 @keyframes transitionIn {
     from {
